@@ -12,7 +12,7 @@
     "node-fetch": "^2.6.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "styled-components": "5.0.0-rc.2"
+    "styled-components": "5.0.0-rc.3"
   },
   "scripts": {
     "dev": "next",
